@@ -3,3 +3,7 @@
 ################################################################################
 
 /LearnBlazor.my/obj
+/.vs
+/LearnBlazor/.vs/LearnBlazor
+/LearnBlazor/LearnBlazor/bin/Debug/net8.0
+/LearnBlazor/LearnBlazor/obj
